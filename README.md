@@ -18,6 +18,8 @@
 > > [O que é computação em nuvem](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/3-what-cloud-compute)
 
 > Modelos de responsabilidade compartilhada
-> > SaaS - SaaS, ou Software as a Service, é uma forma de disponibilizar softwares e soluções de tecnologia por meio da internet. 
+> > SaaS - SaaS, ou Software as a Service, é uma forma de disponibilizar softwares e soluções de tecnologia por meio da internet.
+> >  
 > > PaaS -  O PaaS (plataforma como serviço) é um ambiente de desenvolvimento e implantação completo na nuvem.
+> > 
 > > IaaS - A IaaS (infraestrutura como serviço) é um modelo de serviço em nuvem que oferece recursos de infraestrutura sob demanda, como computação, armazenamento, rede e virtualização, a empresas e indivíduos pela nuvem.
