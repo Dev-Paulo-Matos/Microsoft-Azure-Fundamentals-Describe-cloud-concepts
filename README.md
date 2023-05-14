@@ -6,7 +6,7 @@
 ### Objetivos de aprendizado
 
 - [X] Defina computação em nuvem.
-- [ ] Descreva o modelo de responsabilidade compartilhada.
+- [X] Descreva o modelo de responsabilidade compartilhada.
 - [ ] Defina modelos de nuvem, incluindo público, privado e híbrido.
 - [ ] Identifique os casos de uso apropriados para cada modelo de nuvem.
 - [ ] Descrever o modelo baseado no consumo.
