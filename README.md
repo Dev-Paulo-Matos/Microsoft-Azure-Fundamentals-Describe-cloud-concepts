@@ -23,3 +23,19 @@
 > > PaaS -  O PaaS (plataforma como serviço) é um ambiente de desenvolvimento e implantação completo na nuvem.
 > > 
 > > IaaS - A IaaS (infraestrutura como serviço) é um modelo de serviço em nuvem que oferece recursos de infraestrutura sob demanda, como computação, armazenamento, rede e virtualização, a empresas e indivíduos pela nuvem.
+> >  
+> >  Nestes modelos você sempre será responsavel por: As informações e dados armazenados na nuvem, Dispositivos que podem se conectar à sua nuvem (telefones celulares, computadores e assim por diante), As contas e identidades das pessoas, serviços e dispositivos em sua organização
+> >  
+> >  O provedor de nuvem é sempre responsável por: O datacenter físico, A rede física, Os hosts físicos
+> >  
+> >  Seu modelo de serviço determinará a responsabilidade por coisas como: Sistemas operacionais, Controles de rede, Formulários, Identidade e infraestrutura
+
+
+
+
+
+
+
+
+
+
